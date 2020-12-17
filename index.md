@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## CV
 
-You can use the [editor on GitHub](https://github.com/PoojaRada/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Currently a student in the Technical Management Post-Baccalaureate program at Kwantlen Polytechnic University, with strong computer skills, including application and web design, eager to learn and develop while working with an organization that values growth and is fond of supporting young talent development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Summary of Skills 
 
-### Markdown
+Technical: MS Office, intermediate Excel skills 
+Databases: SQL, SQLite, MySQl, Firework, Oracle 
+Operating Systems: Mac, Windows, Linux 
+Languages: Python, Java, C, C++, .NET 
+Web Development: HTML, CSS , JAVA, JQuery Machine Learning, Artificial Intelligence 
+Interpersonal & Team Work: Able to adapt to new technology quickly, Good communicator, Proved to work well in a team, reliable, and supportive, Worked as a Tutor and received positive feedback from both students and parents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+Technical Management and Services Post Baccalaureate Diploma expected April 2021
+Kwantlen Polytechnic University
+Computer Engineering - Bachelor of Engineering
+Gujarat Technological University May 2019
+### Project Experience
+Searchable Medicine Database Application – Medigo May 2016 – May 2018 Worked on a team of 3 to build an application that can search through a database of medical stores and supplies, and would compare prices, and indicate the closest medical store. Demonstrated active participation as a team member
+Machine Learning Concepts for Fake News Detection
+Study-based Project June 2018 – May 2019 Machine learning algorithms, such as Navie Bayes, utilized for analysis of fake news in the social media and impact of it. Familiar with tools like Anaconda for data analysis of dataset, worked in team of 2 members, did project planning and execution for successful completion of work on time
+### Volunteer Experience
+Child Support Assistant. Mar 2018. Assisted children with developmental disabilities with studies and leisure activities
+Event Support Assistant. Aug 2018. Coordinated an Information Fair for 30 colleges, including logistics, catering, programming, and communications. Answered customer questions and resolved their technical related questions
+Student Mentor. Sep 2020. Assisted oncoming international students with adjusting University life and guiding them to appropriate University services
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PoojaRada/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: bhavanarada@gmail.com
