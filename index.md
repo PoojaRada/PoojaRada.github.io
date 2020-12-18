@@ -4,12 +4,14 @@ Currently a student in the Technical Management Post-Baccalaureate program at Kw
 
 ### Summary of Skills 
 
-Technical: MS Office, intermediate Excel skills 
+#### Technical:
+MS Office, intermediate Excel skills 
 Databases: SQL, SQLite, MySQl, Firework, Oracle 
 Operating Systems: Mac, Windows, Linux 
 Languages: Python, Java, C, C++, .NET 
 Web Development: HTML, CSS , JAVA, JQuery Machine Learning, Artificial Intelligence 
-Interpersonal & Team Work: Able to adapt to new technology quickly, Good communicator, Proved to work well in a team, reliable, and supportive, Worked as a Tutor and received positive feedback from both students and parents
+#### Interpersonal & Team Work: 
+Able to adapt to new technology quickly, Good communicator, Proved to work well in a team, reliable, and supportive, Worked as a Tutor and received positive feedback from both students and parents
 
 ### Education
 Technical Management and Services Post Baccalaureate Diploma expected April 2021
