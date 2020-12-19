@@ -1,6 +1,6 @@
 ## Pooja Rada
 
-https://www.linkedin.com/in/pooja-rada/
+<a href = https://www.linkedin.com/in/pooja-rada/> Linkedin </a>
 
 Tech - savvy| Python Programmer |Web Development | Designer | Software
 
